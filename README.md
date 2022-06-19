@@ -2,6 +2,7 @@
 
 prerequisites
 > npm install --global yarn
+> 
 > npm install -g json-server
 
 start project
