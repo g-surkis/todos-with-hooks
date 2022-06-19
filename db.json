@@ -1,0 +1,56 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "title": "first",
+      "todos": [
+        "learn react",
+        "learn redux",
+        "learn graphQl",
+        "learn redis",
+        "sdsds",
+        "sfsfsdf",
+        "adsd",
+        "sdsds",
+        "asasasasasas",
+        "xczxcx"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "second",
+      "todos": [
+        "learn vue",
+        "learn vuix",
+        "learn mobiX",
+        "learn kafka",
+        "sdsds"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "third",
+      "todos": [
+        "learn angular",
+        "learn nestjs",
+        "learn apollo",
+        "learn rust",
+        "Hello world",
+        "normal item",
+        "hi there"
+      ]
+    },
+    {
+      "title": "To Do",
+      "todos": [
+        "add update ",
+        "style create list",
+        "style create todo",
+        "add edit list title",
+        "use loading",
+        "add delete list"
+      ],
+      "id": 5
+    }
+  ]
+}
